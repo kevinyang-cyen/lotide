@@ -7,7 +7,6 @@ const map = function(array, callback) {
   return results;
 };
 
-
 /* Test Code
 const assertArraysEqual = function(actual, expected) {
   if (eqArrays(actual, expected)) {
