@@ -41,6 +41,8 @@ const eqArrays = function(arrayOne, arrayTwo) {
   return true;
 };
 
+module.exports = assertObjectsEqual;
+
 /* Test Code
 const ab = { a: "1", b: "2" };
 const ba = { b: "2", a: "1" };

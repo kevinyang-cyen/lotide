@@ -38,6 +38,8 @@ const eqArrays = function(arrayOne, arrayTwo) {
   return true;
 };
 
+module.exports = eqObjects;
+
 /* Test Code
 const assertEqual = function(actual, expected) {
   if (actual === expected) {

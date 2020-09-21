@@ -13,6 +13,8 @@ const letterPositions = function(sentence) {
   return results;
 };
 
+module.exports = letterPositions;
+
 /* Test Code
 const assertArraysEqual = function(actual, expected) {
   if (eqArrays(actual, expected)) {

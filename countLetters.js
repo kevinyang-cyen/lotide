@@ -12,6 +12,8 @@ const countLetters = function(string) {
   return newObject;
 };
 
+module.exports = countLetters;
+
 /* Test Code
 const assertEqual = function(actual, expected) {
   if (actual === expected) {

@@ -10,6 +10,8 @@ const findKeyByValue = function (objectToSearch, item) {
   return foundKey;
 };
 
+module.exports = findKeyByValue;
+
 /* Test Code
 const assertEqual = function(actual, expected) {
   if (actual === expected) {

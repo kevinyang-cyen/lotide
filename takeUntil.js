@@ -12,6 +12,8 @@ const takeUntil = function(array, callback) {
   return results;
 }
 
+module.exports = takeUntil;
+
 /* Test Code
 const assertArraysEqual = function(actual, expected) {
   if (eqArrays(actual, expected)) {

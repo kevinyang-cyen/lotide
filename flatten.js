@@ -13,6 +13,8 @@ const flatten = function(nestedArray) {
   return newArray;
 }
 
+module.exports = flatten;
+
 /* Test Code
 const assertArraysEqual = function(actual, expected) {
   if (eqArrays(actual, expected)) {

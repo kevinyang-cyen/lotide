@@ -9,6 +9,8 @@ const findKey = function(object, callback) {
   return 'No Key with this value'
 }
 
+module.exports = findKey;
+
 /* Test Code
 const assertEqual = function(actual, expected) {
   if (actual === expected) {
