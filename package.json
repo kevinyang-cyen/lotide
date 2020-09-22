@@ -1,6 +1,6 @@
 {
-  "name": " @kevinyang-cyen/lotide",
-  "version": "1.0.0",
+  "name": "@kevinyang-cyen/lotide",
+  "version": "1.0.1",
   "description": "A mini clone of the [Lodash](https://lodash.com) library created for learning purposes at Lighthouse Labs",
   "main": "assertArraysEqual.js",
   "directories": {
